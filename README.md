@@ -16,5 +16,5 @@
  
 ## License
  - MIT License: miniprime1, 2021
- - [Open license file](LICENSE.md)
+ - [Open license file](LICENSE)
 

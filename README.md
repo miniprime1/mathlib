@@ -15,6 +15,5 @@
  - Wikipedia(taylor series documentation): https://en.wikipedia.org/wiki/Taylor_series
  
 ## License
- - MIT License: miniprime1, 2021
- - [Open license file](LICENSE)
+ - [MIT License](LICENSE)
 

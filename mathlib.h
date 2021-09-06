@@ -303,6 +303,8 @@ namespace mathlib {
 	}
 
 	double integrate(double (*f)(double), double a, double b) {
+		if (a == b) return 0;
+		
 		double n = 1000000.0;
 
 		auto delta_x = [](double a, double b, double n) -> double { return (b - a) / n; };
